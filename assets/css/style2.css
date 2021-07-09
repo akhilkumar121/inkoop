@@ -1,0 +1,146 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	width: 960px;
+	overflow: hidden;
+	padding: 10px;
+	margin: 30px auto;
+	background: black;
+
+}
+
+
+
+.mainwrapper{
+	float: left;
+	width: 100%;
+	height: auto;
+	padding: 30px;
+	background: snow;
+	overflow: hidden;
+ 
+}
+.g100{
+	float: left;
+	width: 100%;
+	height: auto;
+	background-color: snow;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+
+}
+.g95{
+	float: left;
+	width: 95%;
+	height: auto;
+	
+	background-color:snow;
+
+}
+
+.g80{
+	float: left;
+	width: 80%;
+	height: auto;
+	
+	
+
+
+}
+
+.g70{
+	float: left;
+	width: 70%;
+	height: auto;
+	font-size:4vw;
+	
+
+
+
+}
+.g30{
+	float: left;
+	width: 30%;
+	height: auto;
+	
+	
+
+}
+.g20{	
+	float: auto;
+	width: 20%;
+	height: auto;
+	
+
+
+}
+.gimage{
+	margin: 0 auto;
+	width: 100%;
+	height: auto;
+	max-height: 180px;
+	max-width: 180px;
+	background-color: snow;
+	overflow: hidden;
+	border-radius: 45%;
+
+}
+.gtitle{
+	float: left;
+	width: 100%;
+	height: auto;
+	text-align:center;
+	font-size: 2vw;
+}
+.gmenutitle {
+	float: left;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	font-size: 3vw;
+	
+
+}
+.g33{
+	float: left;
+	width: 32%;
+	height: auto;
+}
+
+.gmenu{
+	float: left;
+	width: 100%;
+	height: auto;
+}
+
+.g20 ul li{
+	float: left;
+	width: 100%;
+	height: auto;
+	display: block;
+	list-style: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+
+
+
+}
+
+.gcart{	
+	margin: 0 auto;
+	width: fit-content;
+	height: auto;
+	
+	background-color: red;
+	text-align: center;
+	color: white;
+	border-radius: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right:25px ;
+	padding-left: 25px ;
+}
